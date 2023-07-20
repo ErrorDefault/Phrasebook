@@ -20,3 +20,5 @@ SCREENSHOTS
 <img src="https://github.com/ErrorDefault/Phrasebook/assets/36209276/11fe041f-4b70-4f9b-895e-7453f1adcdcd" width = "200"/>
 <img src="https://github.com/ErrorDefault/Phrasebook/assets/36209276/1fa3b2cc-0b2b-45f1-9441-d426d6709ba4" width = "200"/>
 <img src="https://github.com/ErrorDefault/Phrasebook/assets/36209276/27921785-2870-4344-a544-296391b77f67" width = "200"/>
+
+Created with SwiftUI
