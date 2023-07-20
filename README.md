@@ -16,6 +16,7 @@ FEATURES
 
 SCREENSHOTS
 
+<img src="https://github.com/ErrorDefault/Phrasebook/assets/36209276/ef7def4b-f8b7-45d4-bd6f-52e7bea0c506" width = "200"/>
 ![Search](https://github.com/ErrorDefault/Phrasebook/assets/36209276/11fe041f-4b70-4f9b-895e-7453f1adcdcd)
 ![Favorites](https://github.com/ErrorDefault/Phrasebook/assets/36209276/1fa3b2cc-0b2b-45f1-9441-d426d6709ba4)
 ![Groups](https://github.com/ErrorDefault/Phrasebook/assets/36209276/27921785-2870-4344-a544-296391b77f67)
