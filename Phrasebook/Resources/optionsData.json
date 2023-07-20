@@ -1,0 +1,988 @@
+{
+    "age": {
+       "1": {
+          "japanese": "一歳",
+          "romaji": "issai"
+       },
+       "2": {
+          "japanese": "二歳",
+          "romaji": "nisai"
+       },
+       "3": {
+          "japanese": "三歳",
+          "romaji": "sansai"
+       },
+       "4": {
+          "japanese": "四歳",
+          "romaji": "yonsai"
+       },
+       "5": {
+          "japanese": "五歳",
+          "romaji": "gosai"
+       },
+       "6": {
+          "japanese": "六歳",
+          "romaji": "rokusai"
+       },
+       "7": {
+          "japanese": "七歳",
+          "romaji": "nanasai"
+       },
+       "8": {
+          "japanese": "八歳",
+          "romaji": "hassai"
+       },
+       "9": {
+          "japanese": "九歳",
+          "romaji": "kyusai"
+       },
+       "10": {
+          "japanese": "十歳",
+          "romaji": "juusai"
+       },
+       "11": {
+          "japanese": "十一歳",
+          "romaji": "juuisai"
+       },
+       "12": {
+          "japanese": "十二歳",
+          "romaji": "juunisai"
+       },
+       "13": {
+          "japanese": "十三歳",
+          "romaji": "juusansai"
+       },
+       "14": {
+          "japanese": "十四歳",
+          "romaji": "juuyonsai"
+       },
+       "15": {
+          "japanese": "十五歳",
+          "romaji": "juugosai"
+       },
+       "16": {
+          "japanese": "十六歳",
+          "romaji": "juurokusai"
+       },
+       "17": {
+          "japanese": "十七歳",
+          "romaji": "juunanasai"
+       },
+       "18": {
+          "japanese": "十八歳",
+          "romaji": "juuhassai"
+       },
+       "19": {
+          "japanese": "十九歳",
+          "romaji": "juukyusai"
+       },
+       "20": {
+          "japanese": "二十歳",
+          "romaji": "hatachi"
+       },
+       "21": {
+          "japanese": "二十一歳",
+          "romaji": "nijuuisai"
+       },
+       "22": {
+          "japanese": "二十二歳",
+          "romaji": "nijuunisai"
+       },
+       "23": {
+          "japanese": "二十三歳",
+          "romaji": "nijuusansai"
+       },
+       "24": {
+          "japanese": "二十四歳",
+          "romaji": "nijuuyonsai"
+       },
+       "25": {
+          "japanese": "二十五歳",
+          "romaji": "nijuugosai"
+       },
+       "26": {
+          "japanese": "二十六歳",
+          "romaji": "nijuurokusai"
+       },
+       "27": {
+          "japanese": "二十七歳",
+          "romaji": "nijuunanasai"
+       },
+       "28": {
+          "japanese": "二十八歳",
+          "romaji": "nijuuhassai"
+       },
+       "29": {
+          "japanese": "二十九歳",
+          "romaji": "nijuukyusai"
+       },
+       "30": {
+          "japanese": "三十歳",
+          "romaji": "sanjuusai"
+       },
+       "31": {
+          "japanese": "三十一歳",
+          "romaji": "sanjuuisai"
+       },
+       "32": {
+          "japanese": "三十二歳",
+          "romaji": "sanjuunisai"
+       },
+       "33": {
+          "japanese": "三十三歳",
+          "romaji": "sanjuusansai"
+       },
+       "34": {
+          "japanese": "三十四歳",
+          "romaji": "sanjuuyonsai"
+       },
+       "35": {
+          "japanese": "三十五歳",
+          "romaji": "sanjuugosai"
+       },
+       "36": {
+          "japanese": "三十六歳",
+          "romaji": "sanjuurokusai"
+       },
+       "37": {
+          "japanese": "三十七歳",
+          "romaji": "sanjuunanasai"
+       },
+       "38": {
+          "japanese": "三十八歳",
+          "romaji": "sanjuuhassai"
+       },
+       "39": {
+          "japanese": "三十九歳",
+          "romaji": "sanjuukyusai"
+       },
+       "40": {
+          "japanese": "四十歳",
+          "romaji": "yonjuusai"
+       },
+       "41": {
+          "japanese": "四十一歳",
+          "romaji": "yonjuuisai"
+       },
+       "42": {
+          "japanese": "四十二歳",
+          "romaji": "yonjuunisai"
+       },
+       "43": {
+          "japanese": "四十三歳",
+          "romaji": "yonjuusansai"
+       },
+       "44": {
+          "japanese": "四十四歳",
+          "romaji": "yonjuuyonsai"
+       },
+       "45": {
+          "japanese": "四十五歳",
+          "romaji": "yonjuugosai"
+       },
+       "46": {
+          "japanese": "四十六歳",
+          "romaji": "yonjuurokusai"
+       },
+       "47": {
+          "japanese": "四十七歳",
+          "romaji": "yonjuunanasai"
+       },
+       "48": {
+          "japanese": "四十八歳",
+          "romaji": "yonjuuhassai"
+       },
+       "49": {
+          "japanese": "四十九歳",
+          "romaji": "yonjuukyusai"
+       },
+       "50": {
+          "japanese": "五十歳",
+          "romaji": "gojuusai"
+       },
+       "51": {
+          "japanese": "五十一歳",
+          "romaji": "gojuuisai"
+       },
+       "52": {
+          "japanese": "五十二歳",
+          "romaji": "gojuunisai"
+       },
+       "53": {
+          "japanese": "五十三歳",
+          "romaji": "gojuusansai"
+       },
+       "54": {
+          "japanese": "五十四歳",
+          "romaji": "gojuuyonsai"
+       },
+       "55": {
+          "japanese": "五十五歳",
+          "romaji": "gojuugosai"
+       },
+       "56": {
+          "japanese": "五十六歳",
+          "romaji": "gojuurokusai"
+       },
+       "57": {
+          "japanese": "五十七歳",
+          "romaji": "gojuunanasai"
+       },
+       "58": {
+          "japanese": "五十八歳",
+          "romaji": "gojuuhassai"
+       },
+       "59": {
+          "japanese": "五十九歳",
+          "romaji": "gojuukyusai"
+       },
+       "60": {
+          "japanese": "六十歳",
+          "romaji": "rokujuusai"
+       },
+       "61": {
+          "japanese": "六十一歳",
+          "romaji": "rokujuuisai"
+       },
+       "62": {
+          "japanese": "六十二歳",
+          "romaji": "rokujuunisai"
+       },
+       "63": {
+          "japanese": "六十三歳",
+          "romaji": "rokujuusansai"
+       },
+       "64": {
+          "japanese": "六十四歳",
+          "romaji": "rokujuuyonsai"
+       },
+       "65": {
+          "japanese": "六十五歳",
+          "romaji": "rokujuugosai"
+       },
+       "66": {
+          "japanese": "六十六歳",
+          "romaji": "rokujuurokusai"
+       },
+       "67": {
+          "japanese": "六十七歳",
+          "romaji": "rokujuunanasai"
+       },
+       "68": {
+          "japanese": "六十八歳",
+          "romaji": "rokujuuhassai"
+       },
+       "69": {
+          "japanese": "六十九歳",
+          "romaji": "rokujuukyusai"
+       },
+       "70": {
+          "japanese": "七十歳",
+          "romaji": "nanajuusai"
+       },
+       "71": {
+          "japanese": "七十一歳",
+          "romaji": "nanajuuisai"
+       },
+       "72": {
+          "japanese": "七十二歳",
+          "romaji": "nanajuunisai"
+       },
+       "73": {
+          "japanese": "七十三歳",
+          "romaji": "nanajuusansai"
+       },
+       "74": {
+          "japanese": "七十四歳",
+          "romaji": "nanajuuyonsai"
+       },
+       "75": {
+          "japanese": "七十五歳",
+          "romaji": "nanajuugosai"
+       },
+       "76": {
+          "japanese": "七十六歳",
+          "romaji": "nanajuurokusai"
+       },
+       "77": {
+          "japanese": "七十七歳",
+          "romaji": "nanajuunanasai"
+       },
+       "78": {
+          "japanese": "七十八歳",
+          "romaji": "nanajuuhassai"
+       },
+       "79": {
+          "japanese": "七十九歳",
+          "romaji": "nanajuukyusai"
+       },
+       "80": {
+          "japanese": "八十歳",
+          "romaji": "hachijuusai"
+       },
+       "81": {
+          "japanese": "八十一歳",
+          "romaji": "hachijuuisai"
+       },
+       "82": {
+          "japanese": "八十二歳",
+          "romaji": "hachijuunisai"
+       },
+       "83": {
+          "japanese": "八十三歳",
+          "romaji": "hachijuusansai"
+       },
+       "84": {
+          "japanese": "八十四歳",
+          "romaji": "hachijuuyonsai"
+       },
+       "85": {
+          "japanese": "八十五歳",
+          "romaji": "hachijuugosai"
+       },
+       "86": {
+          "japanese": "八十六歳",
+          "romaji": "hachijuurokusai"
+       },
+       "87": {
+          "japanese": "八十七歳",
+          "romaji": "hachijuunanasai"
+       },
+       "88": {
+          "japanese": "八十八歳",
+          "romaji": "hachijuuhassai"
+       },
+       "89": {
+          "japanese": "八十九歳",
+          "romaji": "hachijuukyusai"
+       },
+       "90": {
+          "japanese": "九十歳",
+          "romaji": "kyujuusai"
+       },
+       "91": {
+          "japanese": "九十一歳",
+          "romaji": "kyujuuisai"
+       },
+       "92": {
+          "japanese": "九十二歳",
+          "romaji": "kyujuunisai"
+       },
+       "93": {
+          "japanese": "九十三歳",
+          "romaji": "kyujuusansai"
+       },
+       "94": {
+          "japanese": "九十四歳",
+          "romaji": "kyujuuyonsai"
+       },
+       "95": {
+          "japanese": "九十五歳",
+          "romaji": "kyujuugosai"
+       },
+       "96": {
+          "japanese": "九十六歳",
+          "romaji": "kyujuurokusai"
+       },
+       "97": {
+          "japanese": "九十七歳",
+          "romaji": "kyujuunanasai"
+       },
+       "98": {
+          "japanese": "九十八歳",
+          "romaji": "kyujuuhassai"
+       },
+       "99": {
+          "japanese": "九十九歳",
+          "romaji": "kyujuukyusai"
+       },
+       "100": {
+          "japanese": "100歳",
+          "romaji": "hyakusai"
+       }
+   },
+    "hour": {
+       "0": {
+          "romaji": "re",
+          "japanese": "零"
+       },
+       "1": {
+          "romaji": "ichi",
+          "japanese": "一"
+       },
+       "2": {
+          "romaji": "ni",
+          "japanese": "二"
+       },
+       "3": {
+          "romaji": "san",
+          "japanese": "三"
+       },
+       "4": {
+          "romaji": "yo",
+          "japanese": "四"
+       },
+       "5": {
+          "romaji": "go",
+          "japanese": "五"
+       },
+       "6": {
+          "romaji": "roku",
+          "japanese": "六"
+       },
+       "7": {
+          "romaji": "shichi",
+          "japanese": "七"
+       },
+       "8": {
+          "romaji": "hachi",
+          "japanese": "八"
+       },
+       "9": {
+          "romaji": "ku",
+          "japanese": "九"
+       },
+       "10": {
+          "romaji": "juu",
+          "japanese": "十"
+       },
+       "11": {
+          "romaji": "juuichi",
+          "japanese": "十一"
+       },
+       "12": {
+          "romaji": "juuni",
+          "japanese": "十二"
+       }
+    },
+    "nonzero hour": {
+        "1": {
+           "romaji": "ichi",
+           "japanese": "一"
+        },
+        "2": {
+           "romaji": "ni",
+           "japanese": "二"
+        },
+        "3": {
+           "romaji": "san",
+           "japanese": "三"
+        },
+        "4": {
+           "romaji": "yo",
+           "japanese": "四"
+        },
+        "5": {
+           "romaji": "go",
+           "japanese": "五"
+        },
+        "6": {
+           "romaji": "roku",
+           "japanese": "六"
+        },
+        "7": {
+           "romaji": "shichi",
+           "japanese": "七"
+        },
+        "8": {
+           "romaji": "hachi",
+           "japanese": "八"
+        },
+        "9": {
+           "romaji": "ku",
+           "japanese": "九"
+        },
+        "10": {
+           "romaji": "juu",
+           "japanese": "10"
+        },
+        "11": {
+           "romaji": "juuichi",
+           "japanese": "十一"
+        },
+        "12": {
+           "romaji": "juuni",
+           "japanese": "十二"
+        }
+    },
+    "minute": {
+        "1": {
+           "romaji": "ippun",
+           "japanese": "一"
+        },
+        "2": {
+           "romaji": "nifun",
+           "japanese": "二"
+        },
+        "3": {
+           "romaji": "sanpun",
+           "japanese": "三"
+        },
+        "4": {
+           "romaji": "yonpun",
+           "japanese": "四"
+        },
+        "5": {
+           "romaji": "gofun",
+           "japanese": "五"
+        },
+        "6": {
+           "romaji": "roppun",
+           "japanese": "六"
+        },
+        "7": {
+           "romaji": "nanafun",
+           "japanese": "七"
+        },
+        "8": {
+           "romaji": "happun",
+           "japanese": "八"
+        },
+        "9": {
+           "romaji": "kyufun",
+           "japanese": "九"
+        },
+        "10": {
+           "romaji": "juppun",
+           "japanese": "十"
+        },
+        "11": {
+           "romaji": "juuippun",
+           "japanese": "十一"
+        },
+        "12": {
+           "romaji": "juunifun",
+           "japanese": "十二"
+        },
+        "13": {
+           "romaji": "juusanpun",
+           "japanese": "十三"
+        },
+        "14": {
+           "romaji": "juuyonpun",
+           "japanese": "十四"
+        },
+        "15": {
+           "romaji": "juugofun",
+           "japanese": "十五"
+        },
+        "16": {
+           "romaji": "juuroppun",
+           "japanese": "十六"
+        },
+        "17": {
+           "romaji": "juunanafun",
+           "japanese": "十七"
+        },
+        "18": {
+           "romaji": "juuhappun",
+           "japanese": "十八"
+        },
+        "19": {
+           "romaji": "juukyufun",
+           "japanese": "十九"
+        },
+        "20": {
+           "romaji": "nijuppun",
+           "japanese": "二十"
+        },
+        "21": {
+           "romaji": "nijuuippun",
+           "japanese": "二一"
+        },
+        "22": {
+           "romaji": "nijuunifun",
+           "japanese": "二二"
+        },
+        "23": {
+           "romaji": "nijuusanpun",
+           "japanese": "二三"
+        },
+        "24": {
+           "romaji": "nijuuyonpun",
+           "japanese": "二四"
+        },
+        "25": {
+           "romaji": "nijuugofun",
+           "japanese": "二五"
+        },
+        "26": {
+           "romaji": "nijuuroppun",
+           "japanese": "二六"
+        },
+        "27": {
+           "romaji": "nijuunanafun",
+           "japanese": "二七"
+        },
+        "28": {
+           "romaji": "nijuuhappun",
+           "japanese": "二八"
+        },
+        "29": {
+           "romaji": "nijuukyufun",
+           "japanese": "二九"
+        },
+        "30": {
+           "romaji": "sanjuppun",
+           "japanese": "三十"
+        },
+        "31": {
+           "romaji": "sanjuuippun",
+           "japanese": "三一"
+        },
+        "32": {
+           "romaji": "sanjuunifun",
+           "japanese": "三二"
+        },
+        "33": {
+           "romaji": "sanjuusanpun",
+           "japanese": "三三"
+        },
+        "34": {
+           "romaji": "sanjuuyonpun",
+           "japanese": "三四"
+        },
+        "35": {
+           "romaji": "sanjuugofun",
+           "japanese": "三五"
+        },
+        "36": {
+           "romaji": "sanjuuroppun",
+           "japanese": "三六"
+        },
+        "37": {
+           "romaji": "sanjuunanafun",
+           "japanese": "三七"
+        },
+        "38": {
+           "romaji": "sanjuuhappun",
+           "japanese": "三八"
+        },
+        "39": {
+           "romaji": "sanjuukyufun",
+           "japanese": "三九"
+        },
+        "40": {
+           "romaji": "yonjuppun",
+           "japanese": "四十"
+        },
+        "41": {
+           "romaji": "yonjuuippun",
+           "japanese": "四一"
+        },
+        "42": {
+           "romaji": "yonjuunifun",
+           "japanese": "四二"
+        },
+        "43": {
+           "romaji": "yonjuusanpun",
+           "japanese": "四三"
+        },
+        "44": {
+           "romaji": "yonjuuyonpun",
+           "japanese": "四四"
+        },
+        "45": {
+           "romaji": "yonjuugofun",
+           "japanese": "四五"
+        },
+        "46": {
+           "romaji": "yonjuuroppun",
+           "japanese": "四六"
+        },
+        "47": {
+           "romaji": "yonjuunanafun",
+           "japanese": "四七"
+        },
+        "48": {
+           "romaji": "yonjuuhappun",
+           "japanese": "四八"
+        },
+        "49": {
+           "romaji": "yonjuukyufun",
+           "japanese": "四九"
+        },
+        "50": {
+           "romaji": "gojuppun",
+           "japanese": "五十"
+        },
+        "51": {
+           "romaji": "gojuuippun",
+           "japanese": "五一"
+        },
+        "52": {
+           "romaji": "gojuunifun",
+           "japanese": "五二"
+        },
+        "53": {
+           "romaji": "gojuusanpun",
+           "japanese": "五三"
+        },
+        "54": {
+           "romaji": "gojuuyonpun",
+           "japanese": "五四"
+        },
+        "55": {
+           "romaji": "gojuugofun",
+           "japanese": "五五"
+        },
+        "56": {
+           "romaji": "gojuuroppun",
+           "japanese": "五六"
+        },
+        "57": {
+           "romaji": "gojuunanafun",
+           "japanese": "五七"
+        },
+        "58": {
+           "romaji": "gojuuhappun",
+           "japanese": "五八"
+        },
+        "59": {
+           "romaji": "gojuukyufun",
+           "japanese": "五九"
+        }
+     },
+    "people": {
+        "3": {
+           "romaji": "san",
+           "japanese": "三"
+        },
+        "4": {
+           "romaji": "yon",
+           "japanese": "四"
+        },
+        "5": {
+           "romaji": "go",
+           "japanese": "五"
+        },
+        "6": {
+           "romaji": "roku",
+           "japanese": "六"
+        },
+        "7": {
+           "romaji": "nana",
+           "japanese": "七"
+        },
+        "8": {
+           "romaji": "hachi",
+           "japanese": "八"
+        },
+        "9": {
+           "romaji": "kyu",
+           "japanese": "九"
+        },
+        "10": {
+           "romaji": "juu",
+           "japanese": "十"
+        },
+        "11": {
+           "romaji": "juuichi",
+           "japanese": "十一"
+        },
+        "12": {
+           "romaji": "juuni",
+           "japanese": "十二"
+        },
+        "13": {
+           "romaji": "juusan",
+           "japanese": "十三"
+        },
+        "14": {
+           "romaji": "juuyon",
+           "japanese": "十四"
+        },
+        "15": {
+           "romaji": "juugo",
+           "japanese": "十五"
+        },
+        "16": {
+           "romaji": "juuroku",
+           "japanese": "十六"
+        },
+        "17": {
+           "romaji": "juunana",
+           "japanese": "十七"
+        },
+        "18": {
+           "romaji": "juuhachi",
+           "japanese": "十八"
+        },
+        "19": {
+           "romaji": "juukyu",
+           "japanese": "十九"
+        },
+        "20": {
+           "romaji": "nijuu",
+           "japanese": "二十"
+        }
+     },
+    "counter": {
+        "1": {
+           "romaji": "hitotsu",
+           "japanese": "ひとつ"
+        },
+        "2": {
+           "romaji": "futatsu",
+           "japanese": "ふたつ"
+        },
+        "3": {
+           "romaji": "mitsu",
+           "japanese": "みつ"
+        },
+        "4": {
+           "romaji": "yotsu",
+           "japanese": "よつ"
+        },
+        "5": {
+           "romaji": "itsutsu",
+           "japanese": "いつつ"
+        },
+        "6": {
+           "romaji": "muttsu",
+           "japanese": "むっつ"
+        },
+        "7": {
+           "romaji": "nanatsu",
+           "japanese": "ななつ"
+        },
+        "8": {
+           "romaji": "yattsu",
+           "japanese": "やっつ"
+        },
+        "9": {
+           "romaji": "kokonotsu",
+           "japanese": "ここのつ"
+        },
+        "10": {
+           "romaji": "tou",
+           "japanese": "とう"
+        }
+     },
+    "day of month": {
+        "1": {
+           "romaji": "tsuitachi",
+           "japanese": "1日"
+        },
+        "2": {
+           "romaji": "futsuka",
+           "japanese": "2日"
+        },
+        "3": {
+           "romaji": "mikka",
+           "japanese": "3日"
+        },
+        "4": {
+           "romaji": "yokka",
+           "japanese": "4日"
+        },
+        "5": {
+           "romaji": "itsuka",
+           "japanese": "5日"
+        },
+        "6": {
+           "romaji": "muika",
+           "japanese": "6日"
+        },
+        "7": {
+           "romaji": "nanoka",
+           "japanese": "7日"
+        },
+        "8": {
+           "romaji": "youka",
+           "japanese": "8日"
+        },
+        "9": {
+           "romaji": "kokonoka",
+           "japanese": "9日"
+        },
+        "10": {
+           "romaji": "touka",
+           "japanese": "10日"
+        },
+        "11": {
+           "romaji": "juuichi nichi",
+           "japanese": "11日"
+        },
+        "12": {
+           "romaji": "juuni nichi",
+           "japanese": "12日"
+        },
+        "13": {
+           "romaji": "juusan nichi",
+           "japanese": "13日"
+        },
+        "14": {
+           "romaji": "juuyokka",
+           "japanese": "14日"
+        },
+        "15": {
+           "romaji": "juugo nichi",
+           "japanese": "15日"
+        },
+        "16": {
+           "romaji": "juuroku nichi",
+           "japanese": "16日"
+        },
+        "17": {
+           "romaji": "juushichi nichi",
+           "japanese": "17日"
+        },
+        "18": {
+           "romaji": "juuhachi nichi",
+           "japanese": "18日"
+        },
+        "19": {
+           "romaji": "juuku nichi",
+           "japanese": "19日"
+        },
+        "20": {
+           "romaji": "hatsuka",
+           "japanese": "20日"
+        },
+        "21": {
+           "romaji": "nijuuichi nichi",
+           "japanese": "21日"
+        },
+        "22": {
+           "romaji": "nijuuni nichi",
+           "japanese": "22日"
+        },
+        "23": {
+           "romaji": "nijuusan nichi",
+           "japanese": "23日"
+        },
+        "24": {
+           "romaji": "nijuuyoka",
+           "japanese": "24日"
+        },
+        "25": {
+           "romaji": "nijuugo nichi",
+           "japanese": "25日"
+        },
+        "26": {
+           "romaji": "nijuuroku nichi",
+           "japanese": "26日"
+        },
+        "27": {
+           "romaji": "nijuushichi nichi",
+           "japanese": "27日"
+        },
+        "28": {
+           "romaji": "nijuuhachi nichi",
+           "japanese": "28日"
+        },
+        "29": {
+           "romaji": "nijuuku nichi",
+           "japanese": "29日"
+        },
+        "30": {
+           "romaji": "sanjuu nichi",
+           "japanese": "30日"
+        },
+        "31": {
+           "romaji": "sanjuuichi nichi",
+           "japanese": "31日"
+        }
+     },
+}
