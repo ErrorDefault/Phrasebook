@@ -1,5 +1,5 @@
 ![Icon](https://github.com/ErrorDefault/Phrasebook/assets/36209276/321d1636-be22-4be6-beff-101c3917a324)
-# Phrasebook
+# Pocket Japan
 Pocket Japan is the perfect phrasebook app to survive your trip to Japan.
 
 FEATURES
