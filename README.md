@@ -1,4 +1,4 @@
-![Store Icon](https://github.com/ErrorDefault/Phrasebook/assets/36209276/321d1636-be22-4be6-beff-101c3917a324)
+![Icon](https://github.com/ErrorDefault/Phrasebook/assets/36209276/321d1636-be22-4be6-beff-101c3917a324)
 # Phrasebook
 Pocket Japan is the perfect phrasebook app to survive your trip to Japan.
 
@@ -13,3 +13,9 @@ FEATURES
 - Ad-free experience.
 - Supports both light-mode and dark-mode viewing experiences.
 - No Internet connection required!
+
+SCREENSHOTS
+
+![Search](https://github.com/ErrorDefault/Phrasebook/assets/36209276/11fe041f-4b70-4f9b-895e-7453f1adcdcd)
+![Favorites](https://github.com/ErrorDefault/Phrasebook/assets/36209276/1fa3b2cc-0b2b-45f1-9441-d426d6709ba4)
+![Groups](https://github.com/ErrorDefault/Phrasebook/assets/36209276/27921785-2870-4344-a544-296391b77f67)
