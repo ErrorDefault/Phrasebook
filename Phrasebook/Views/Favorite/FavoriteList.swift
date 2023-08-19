@@ -6,7 +6,7 @@ private struct NoFavoritesText: View {
     var body: some View {
         VStack {
             FavoriteButton(isSet: $isFavorite)
-            Text("Add favorites by tapping this icon next to a phrase!")
+            Text("Add favorites by tapping this icon next to a phrase.")
                 .font(.title2)
                 .multilineTextAlignment(.center)
                 .padding(.horizontal)
